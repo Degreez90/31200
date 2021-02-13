@@ -1,0 +1,9 @@
+.center{
+    margin-top: 200px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.blue{
+    color: rgb(32, 96, 151);
+}
